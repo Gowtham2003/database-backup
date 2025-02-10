@@ -1,9 +1,9 @@
 [MySQL]
 host = localhost
 port = 3306
-user = your_username
-password = your_password
-database = your_database
+user = dbuser
+password = dbpassword
+database = dbname
 
 [GoogleDrive]
-folder_id = your_folder_id
+folder_id = your_folder_id  # Get this from Google Drive folder URL
